@@ -23,3 +23,18 @@ Temario desarrolllado en el curso en conjunto con Alura, y open bootcamp.
 1.1 Que es HTML y otras conceptos base . HTML5test 
 1.2 Instalacion de VSC | Extenciones: -open in browser -HTML end tag labels - Auto rename tag -indent rainbow  - live server-  prettier
 1.3 Crea el primer archivo.hmtl | navegador, inspeccionar | etiquetas: p, span, title,  <!--comentario-->, h1 al h6 (encabezado), a(enlace con href)
+1.4 Repositorio 
+1.5 Ejercicio de primera pagina con algunas etiquetas
+
+Em la revisión se hablo de crear un Repositorio, clonar y subir archivos. Despues se mostro los vs snippets. 
+*Los snippets en Visual Studio Code1 son fragmentos de código reutilizables que puedes llamar con un atajo de teclado o con prefijos mientras escribes en el editor.*
+Agustin mostro que se podia creer/editar tu Snippets o usar extensiones para ayudar a la hora de codificar, 
+
+## Github, algunos comandos
+ git clone /url del repo/ 
+ git add . 
+ git commit -m "comentario"
+ git push
+ git status
+
+Se planteo para la proxima, mostrar el repo con el primer ejercicio que plantean los videos. 
