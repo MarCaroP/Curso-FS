@@ -38,3 +38,13 @@ Agustin mostro que se podia creer/editar tu Snippets o usar extensiones para ayu
  git status
 
 Se planteo para la proxima, mostrar el repo con el primer ejercicio que plantean los videos. 
+ 
+2 | 02/08/2022 | Formularios y tablas | sección 2 |
+2.1 Etiquetas para Formularios : form, label, input, textarea, button 
+2.2 Botones : type reset, type submit. input type: text, number, email, password, date
+2.3 TaBlas en HTML: etiqueta table, tr, row para fila. th hearder para titulo, td para data. 
+
+
+
+
+3 | 04/08/2022 | Multimedia | sección 3 |
