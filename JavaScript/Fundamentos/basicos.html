@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos JavaScript</title>
+</head>
+<body>
+    <h1>Fundamentos JavaScript</h1>
+    <script>
+        let hola="Hola Mundo";
+        console.log(hola);
+
+        // cadenas String
+        let nomb= "mar";
+        let apell= 'caro';
+        let saludo= new String("hola mundo");
+        let loren= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex velit, nemo ullam, labore totam doloribus obcaecati et dolores ducimus illo deleniti consectetur dignissimos eos expedita quia nobis repellendus ab unde!"
+
+        console.log(nomb, apell, saludo);
+        console.log(
+            nomb.length,
+            apell.length,
+            saludo.length,
+            nomb.toUpperCase(),//a mayuscula
+            apell.toLowerCase(),// a minuscula
+            loren.includes("amet"),//existe o incluye la palabra, DA TRUE
+            loren.includes("mar"),//da false
+            loren,
+            loren.trim(),//quita los espacios en blanco previos
+            loren.split(),//genera un arreglo de cada palabra
+            loren.split(",")//separa por las comas
+        );
+
+
+
+    </script>
+</body>
+</html>

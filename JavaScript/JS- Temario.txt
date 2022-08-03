@@ -1,0 +1,54 @@
+# 📚 Temas para cada sesión
+
+| Día de sesión | Temas a tocar | Videos |
+| --- | --- | --- |
+| 26/07/2022 | Introducción de sesiones |  |
+| 28/07/2022 | Introducción JS + Gramática | 1-2-3 |
+| 02/08/2022 | Variables constantes | 4-5 |
+| 04/08/2022 | Tipos de datos | 6-7-8-9-10 |
+| 09/08/2022 | Funciones + Arrays + Objetos | 11-12-13 |
+| 11/08/2022 | operadores + Condicionales  | 14-15 |
+| 16/08/2022 | Ciclos + errores + break/continue | 16-17-18 |
+| 18/08/2022 | Destructuración + objetos literales + REST | 19-20-21 |
+| 23/08/2022 | Arrow function + prototipos + herencia | 22-23-24 |
+| 25/08/2022 | Clases + Métodos | 25-26 |
+| 30/08/2022 | Objeto console, Date, Math | 27-28-29 |
+| 01/09/2022 | Cortocircuito + alert/confirm/prompt | 30-31 |
+| 06/09/2022 | Exp.Regulares + Funcion anónima | 32-33 |
+| 08/09/2022 | Módulos | 34 |
+| 13/09/2022 | Ejercicios de Lógica con todo lo anterior |  |
+
+1 | 28/07/2022 | Introducción JS + Gramática | 1-2-3 |
+Isomorfismo
+Hoy JavaScript, es el único lenguaje capaz de ejecutarse en las 3 capas de una aplicación:
+    Frontend (con JavaScript). ||Backend (con Node.js). || Persistencia de Datos (con MongoDB, Couch DB, Firebase, etc).
+Características
+    Lenguaje de Alto Nivel. ||Interpretado. ||Dinámico. || Débilmente Tipado. || Multi paradigma. ||Sensible a MAYÚSCULAS y minúsculas. || No necesitas los puntos y comas al final de cada línea. 
+
+Palabras reservadas
+    A: abstract ||B: boolean, break, byte || C: case, catch, char, class, const, continue || D: debugger, default, delete, do, double || E: else, enum, export, extends || F: false, final, finally, float, for, function || G: goto || I: if, implements, import, in, instanceof, int, interface || L: let, long || N: native, new, null || P: package, private, protected, public || R: return || S: short, static, super, switch, synchronized || T: this, throw, throws, transient, true, try, typeof || V: var, volatile, void || W: while, with
+
+Ordenamiento de código
+    IMPORTACIÓN DE MÓDULOS.
+    DECLARACIÓN DE VARIABLES.
+    DECLARACIÓN DE FUNCIONES.
+    EJECUCIÓN DE CÓDIGO.
+
+Tipos de datos en JavaScript
+    Primitivos: Se accede directamente al valor.
+        string || number || boolean || null || undefined || NaN
+
+    Compuestos: Se accede a la referencia del valor.
+        object = {} || array = [] || function () { } || Class {} || etc.
+
+
+2 | 02/08/2022 | Variables constantes | 4-5 |
+    Extenciones: ESLint, mensajes para erroes y recomendaciones || live server || Prettier
+    Variable: lugar en memmo de la pc para almacenar datos
+    Scope(Alcance) global, y funcional. Var permite la re- declaracion dentro de un bloque, Es mala practicar usar Var
+    Const costantes no cambia de valor, tiene que esta definido
+    los valores compuestos si se pueden modificar si estan declarados con const, ejemp: objetos, arreglos etc.  
+    string, metodos que son utiles para trabajar con cadenas, como uppercase, lowercase, trim, include, split.
+
+
+3 | 04/08/2022 | Tipos de datos | 6-7-8-9-10 |
