@@ -59,6 +59,11 @@ Se comenta acerca de el trozo de js que propone en el video y corta para hacer l
 ____________________________________________________________________________________________________________________
 ********************************************************************************************************************
 3 | 04/08/2022 | Multimedia | sección 3 |
+3.1 Etiqueta img. con  src (ubicacion, fuente) alt (nombre alusivo ) width (amcho) heigth (altura)
+3.2 Etiqueta video: tiene etiqueda de apertura y cierre, atributos width y heigth, controls para que aparesca el play pausa, etc, - existe el atributo autoplay y muted y loop - eso es dentro de la apertura. en medio va la etiqueta source para indicar la ubicacion, se le puede agregar el atributo type para especificar. 
+Etiqueta audio, tbm se le puede poner atrubitos controls o autoplay tmb tiene etiqueta de apertura y cierre donde dentro va la etiqueta source.  
+
+
 
 
 
